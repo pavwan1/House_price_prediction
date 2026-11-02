@@ -28,6 +28,6 @@ The script automatically saves a graph (`learning_curve.png`) showing the error 
 
 ---
 
-## 💻 Tech Stack
+## 💻 "Tech Stack"
 * **Language:** Python
 * **Libraries:** NumPy, Pandas, Matplotlib
